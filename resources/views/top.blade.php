@@ -15,16 +15,11 @@
     <ul>
         <li>
             GitHub:
-            <a href="https://github.com/sutara79/demo-laravel-crud" target="_blank">
-                https://github.com/sutara79/demo-laravel-crud
+            <a href="https://github.com/nawafisuren" target="_blank">
+                https://github.com/nawafisuren
             </a>
         </li>
-        <li>
-            Qiita:
-            <a href="http://qiita.com/sutara79/items/ef30fcdfb7afcb2188ea" target="_blank">
-                Laravel 5.6で基本的なCRUDを作る
-            </a>
-        </li>
+
     </ul>
     <h2>{{ __('Feature') }}</h2>
     <ul>
@@ -39,20 +34,12 @@
                     {{ __('Admin') }}:
                     <ul>
                         <li>id: 1</li>
-                        <li>name: sutara79</li>
-                        <li>email: toumin.m7@gmail.com</li>
-                        <li>password: 1234</li>
+                        <li>name: John Doe</li>
+                        <li>email: John Doe</li>
+                        <li>password: 1234567</li>
                     </ul>
                 </li>
-                <li>
-                    {{ __('User') }}:
-                    <ul>
-                        <li>id: 2</li>
-                        <li>name: foo1</li>
-                        <li>email: foo1@foo.com</li>
-                        <li>password: 1234</li>
-                    </ul>
-                </li>
+
             </ul>
         </li>
     </ul>
